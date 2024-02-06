@@ -1,0 +1,9 @@
+﻿  verzija3.c
+C:\Users\Windows HD\source\repos\SeminarksiPP\Project3\verzija3.c(344,11): warning C4098: 'obrisiCeluListu': 'void' function returning a value
+C:\Users\Windows HD\source\repos\SeminarksiPP\Project3\verzija3.c(445,3): warning C4033: 'daLiSuRazliciti' must return a value
+C:\Users\Windows HD\source\repos\SeminarksiPP\Project3\verzija3.c(1027,31): warning C4047: 'function': 'P_ELEMENT' differs in levels of indirection from 'P_ELEMENT *'
+C:\Users\Windows HD\source\repos\SeminarksiPP\Project3\verzija3.c(1027,22): warning C4024: 'uporediListe': different types for formal and actual parameter 1
+C:\Users\Windows HD\source\repos\SeminarksiPP\Project3\verzija3.c(1027,42): warning C4047: 'function': 'P_ELEMENT' differs in levels of indirection from 'P_ELEMENT *'
+C:\Users\Windows HD\source\repos\SeminarksiPP\Project3\verzija3.c(1027,33): warning C4024: 'uporediListe': different types for formal and actual parameter 2
+C:\Users\Windows HD\source\repos\SeminarksiPP\Project3\verzija3.c(466): warning C4715: 'daLiSuRazliciti': not all control paths return a value
+  Project3.vcxproj -> C:\Users\Windows HD\source\repos\SeminarksiPP\x64\Debug\Project3.exe
